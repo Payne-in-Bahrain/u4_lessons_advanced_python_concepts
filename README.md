@@ -149,7 +149,7 @@ for letter, number in zip(letters, numbers):
 
 **zip** facilitates iterating through multiple sequences simultaneously, making it easier to process corresponding elements together and is beneficial when you need to work with related data from multiple iterables simultaneously.
 
-## Duner Methods
+## Dunder Methods
 
 ### What are Dunder Methods?
 
