@@ -135,7 +135,7 @@ for index, fruit in enumerate(fruits):
 
 In this example, **enumerate** is used to iterate over the **fruits** list, providing both the index and the corresponding fruit in each iteration.
 
-## Enumerate and Starting Index 
+### Enumerate and Starting Index 
 
 You can also specify the starting index for the enumeration using the optional **start** parameter.
 
@@ -153,7 +153,7 @@ for index, fruit in enumerate(fruits, start=1):
 
 Here, the enumeration starts from index 1 instead of the default 0.
 
-## Enumerate in List Comprehensions 
+### Enumerate in List Comprehensions 
 
 **enumerate** can also be used in list comprehensions to create a list of tuples containing index and element pairs.
 
@@ -167,7 +167,7 @@ print(enumerated_fruits)
 
 This creates a list of tuples where each tuple contains the index and the corresponding fruit.
 
-## Usefulness in Iteration 
+### Usefulness in Iteration 
 
 The **enumerate** function is valuable when you need both the index and the element during iteration. It eliminates the need to manually manage indices and enhances code readability. This is particularly beneficial when working with data where the order and position of elements matter.
 
