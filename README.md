@@ -1,5 +1,7 @@
  # Advanced Python Programming Concepts
 
+<img src="https://i.imgur.com/hlAJnVW.jpg" width="50%"/>
+
 Welcome to this short lesson on advanced Python programming concepts! In this lesson, we'll explore some powerful features that can enhance your Python coding skills.
 
 ## Lambda Functions
