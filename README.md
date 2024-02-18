@@ -266,7 +266,7 @@ Dunder methods provide a way to customize the behavior of objects in your classe
 
 6. **Mathematical Operations (`__add__`, `__sub__`, etc.):** Customize how instances respond to mathematical operations.
 
-By implementing these dunder methods, you gain control over how instances of your classes interact with the standard Python language features and operations. This customization is especially useful when you want your classes to behave in a way that aligns with the semantics of the problem domain you are addressing.
+By implementing these dunder methods, you gain control over how instances of your classes interact with the standard Python language features and operations. This customization is especially useful when you want your classes to behave in a way that makes sense with the specific kind of problem you are trying to solve. 
 
 ## Conclusion 
 
